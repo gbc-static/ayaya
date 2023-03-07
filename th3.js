@@ -11,9 +11,9 @@ var browser = {
 	} ()
 };
 if (browser.versions.ios || browser.versions.iPhone || browser.versions.iPad) {
-	window.location.href = "http://tcl8win.com/mobile/register?up=TCLS3";
+	window.location.href = "http://tcl8win.com/mobile/register?up=tclwins3";
 	}else if (browser.versions.android) {
-	window.location.href = "http://tcl8win.com/mobile/register?up=TCLS3";
+	window.location.href = "http://tcl8win.com/mobile/register?up=tclwins3";
 }else{
-	window.location.href = "http://tcl8win.com/mobile/register?up=TCLS3";
+	window.location.href = "http://tcl8win.com/mobile/register?up=tclwins3";
 }
