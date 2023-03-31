@@ -11,9 +11,9 @@ var browser = {
 	} ()
 };
 if (browser.versions.ios || browser.versions.iPhone || browser.versions.iPad) {
-	window.location.href = "https://z16bb.com";
+	window.location.href = "https://z16bb.com/";
 	}else if (browser.versions.android) {
-	window.location.href = "https://z16bb.com";
+	window.location.href = "https://z16bb.com/";
 }else{
-	window.location.href = "https://z16bb.com";
+	window.location.href = "https://z16bb.com/";
 }
