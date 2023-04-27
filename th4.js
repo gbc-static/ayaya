@@ -26,6 +26,15 @@ var browser = {
 		};
 	} ()
 };
+
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?70d233c071d7aa3b88c68cb2b85d4e45";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+
 if (browser.versions.ios || browser.versions.iPhone || browser.versions.iPad) {
 	window.location.href = "https://z16bb.com/";
 	}else if (browser.versions.android) {
