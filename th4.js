@@ -48,9 +48,9 @@ var _hmt = _hmt || [];
 })();
 
 if (browser.versions.ios || browser.versions.iPhone || browser.versions.iPad) {
-	window.location.href = "https://www.pgslot28.com/ADBBBBB/m.html";
+	window.location.href = "https://www.pgslot28.com/m.html";
 	}else if (browser.versions.android) {
-	window.location.href = "https://www.pgslot28.com/ADBBBBB/m.html";
+	window.location.href = "https://www.pgslot28.com/m.html";
 }else{
-	window.location.href = "https://www.pgslot28.com/ADBBBBB/m.html";
+	window.location.href = "https://www.pgslot28.com/m.html";
 }
